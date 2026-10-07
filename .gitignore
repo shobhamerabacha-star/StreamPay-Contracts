@@ -4,3 +4,5 @@
 
 # Soroban test snapshots (generated locally, not for version control)
 test_snapshots/
+config.bat
+node_modules
